@@ -1,0 +1,6 @@
+{
+  "nombre": "Menú Especial",
+  "desde": "2025-10-20",
+  "hasta": "2025-10-25",
+  "platos": ["Ensalada Mixta", "Sopa de Verduras", "Paella", "Lubina al Horno", "Brownie", "Hamburguesa Infantil"]
+}
